@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// 1. Single Responsibility Principle
+// [S] 1. Single Responsibility Principle
 
 type User struct {
 	name    string
